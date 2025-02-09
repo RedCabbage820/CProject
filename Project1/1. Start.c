@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int mai()
+int main()
 {
 	printf("문장을 작성하는 영역");
 

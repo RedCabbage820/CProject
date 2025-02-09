@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\C Lang PJW\\CProject\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{553F3A6F-A404-4497-B38A-D4B4F138E584}|Project1.vcxproj|C:\\C Lang PJW\\CProject\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{553F3A6F-A404-4497-B38A-D4B4F138E584}|Project1.vcxproj|solutionrelative:2.\uBB38\uC7A5 \uCD9C\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F3A6F-A404-4497-B38A-D4B4F138E584}|Project1.vcxproj|C:\\C Lang PJW\\CProject\\Project1\\1. Start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{553F3A6F-A404-4497-B38A-D4B4F138E584}|Project1.vcxproj|solutionrelative:1. Start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{553F3A6F-A404-4497-B38A-D4B4F138E584}|Project1.vcxproj|C:\\C Lang PJW\\CProject\\Project1\\4.\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{553F3A6F-A404-4497-B38A-D4B4F138E584}|Project1.vcxproj|solutionrelative:4.\uC785\uB825.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2.\uBB38\uC7A5 \uCD9C\uB825.c",
-              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c",
-              "RelativeDocumentMoniker": "2.\uBB38\uC7A5 \uCD9C\uB825.c",
-              "ToolTip": "C:\\C Lang PJW\\CProject\\Project1\\2.\uBB38\uC7A5 \uCD9C\uB825.c",
-              "RelativeToolTip": "2.\uBB38\uC7A5 \uCD9C\uB825.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Title": "4.\uC785\uB825.c",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\Project1\\4.\uC785\uB825.c",
+              "RelativeDocumentMoniker": "4.\uC785\uB825.c",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\Project1\\4.\uC785\uB825.c",
+              "RelativeToolTip": "4.\uC785\uB825.c",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAD8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-08T01:37:18.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "1. Start.c",
-              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\Project1\\1. Start.c",
-              "RelativeDocumentMoniker": "1. Start.c",
-              "ToolTip": "C:\\C Lang PJW\\CProject\\Project1\\1. Start.c",
-              "RelativeToolTip": "1. Start.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-08T01:36:29.286Z",
+              "WhenOpened": "2025-02-09T01:02:55.718Z",
               "EditorCaption": ""
             }
           ]
