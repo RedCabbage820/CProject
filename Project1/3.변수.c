@@ -50,9 +50,9 @@ int main()
 
 	printf("8진수 octo = %o\n", octo);
 	printf("16진수 hexa = %x\n", hexa);
-	printf("8진수 표기번 출력 octo = %#o\n", octo);
-	printf("16진수 표기번 출력 hexa = %#x\n", hexa);
-	printf("8진수 표기번 출력(8자리) octo : %0.8o\n", octo);
-	printf("16진수 표기번 출력(8자리) hexa : %0.8x\n", hexa);
+	printf("8진수 표기법 출력 octo = %#o\n", octo);
+	printf("16진수 표기법 출력 hexa = %#x\n", hexa);
+	printf("8진수 표기법 출력(8자리) octo : %0.8o\n", octo);
+	printf("16진수 표기법 출력(8자리) hexa : %0.8x\n", hexa);
 	return 0;
 }
