@@ -217,6 +217,7 @@ int main()
 
 # 특수코드
 > 프로그램에서의 안전 검사를 하지 않도록 설정하는 코드
+> 전처리기보다 먼저 쓸 것을 권장합니다.
 > 이 코드를 추가할 경우 visual studio 내에서 scanf를 사용할 수 있습니다.
 ```c
 #define _CRT_SECURE_NO_WARNINGS
