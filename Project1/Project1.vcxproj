@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="7.if문.c" />
-    <ClCompile Include="8.동물테스트.c" />
+    <ClCompile Include="9.배열과 반복문.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="7.if문.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="8.동물테스트.c">
+    <ClCompile Include="9.배열과 반복문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
