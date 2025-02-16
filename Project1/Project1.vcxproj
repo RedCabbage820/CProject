@@ -19,6 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="5.연산자.c" />
+    <ClCompile Include="6.연산자2.c" />
+    <ClCompile Include="7.if문.c" />
     <ClCompile Include="9.배열과 반복문.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

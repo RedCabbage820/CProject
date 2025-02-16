@@ -18,5 +18,14 @@
     <ClCompile Include="9.배열과 반복문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5.연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6.연산자2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7.if문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
