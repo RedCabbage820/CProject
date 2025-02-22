@@ -23,7 +23,51 @@
 int main()
 {
 	int value = 100;
-	int ptr_value = &value;
+	int* ptr_value = &value;
+	//1. *(asterisk) : 숫자 * 숫자로 쓰일 경우에는 곱하기 기호로 사용
+	//				   자료형*로 쓰이는 경우는 주소룰 값으로 바꿔주는 기능(주소 -> 값)
+	//				   포인터에 대한 표현으로 사용합니다.
+
+	//2. &(ampersand) : 값 & 값으로 쓰일 경우에는 해당 값의 대한 비트 AND 연산을 진행하는 기호
+	//					조건식 && 조건식으로 쓰일 경우는 조건식 AND 연산을 진행하눈 기호
+	//					&변수명으로 쓰일 경우에는 해당 값을 주소로 뽑아주는 기능(변수 -> 주소)
+	
+	printf("value 의 값 %d\n", value); //변수의 값 그대로 표현
+	printf("value 의 주소 %p\n", &value); //변수의 주소 표현 시 & 사용
+	printf("ptr_value 의 값 %d\n", *ptr_value); //포인터의 변수의 값 표현을 위해 * 사용
+	printf("ptr_value 의 주소 %p\n", ptr_value); //포인터는 주소이기 때문에 그대로 표현
+
+	value = 5;
+
+	printf("value 의 값 %d\n", value); //변수의 값 그대로 표현
+	printf("value 의 주소 %p\n", &value); //변수의 주소 표현 시 & 사용
+	printf("ptr_value 의 값 %d\n", *ptr_value); //포인터의 변수의 값 표현을 위해 * 사용
+	printf("ptr_value 의 주소 %p\n", ptr_value); //포인터는 주소이기 때문에 그대로 표현
+
+
+	*ptr_value = 7;
+
+	printf("value 의 값 %d\n", value); //변수의 값 그대로 표현
+	printf("value 의 주소 %p\n", &value); //변수의 주소 표현 시 & 사용
+	printf("ptr_value 의 값 %d\n", *ptr_value); //포인터의 변수의 값 표현을 위해 * 사용
+	printf("ptr_value 의 주소 %p\n", ptr_value); //포인터는 주소이기 때문에 그대로 표현
+
+
+	int** pptr_value = &ptr_value;
+	//pptr_value는 ptr_value 변수의 주소를 가리키고 있습니다.(이중 포인터)
+
+	//2중 포인터 만드는 방법
+	//자료형** 포인터명 &포인터변수;
+
+	//*의 개수가 늘어날때마다 3중,4중포인터..로 늘어나게 된(n중 포인터)
+
+	int*** ppptr_value = &pptr_value;
+
+	printf("pptr_value의 값 %d\n", **pptr_value);
+	printf("ppptr_value의 값 %d\n", ***ppptr_value);
+	//현제 데이터의 관계
+	//pptr_value -----> ptr_value -----> value 7
+
 
 	return 0;
 }
