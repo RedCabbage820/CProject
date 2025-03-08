@@ -9,3 +9,11 @@
 #include <stdio.h>
 #include <string.h>
 ```
+
+# 중요 2
+```c
+int main
+{
+	return 0;
+}
+```
