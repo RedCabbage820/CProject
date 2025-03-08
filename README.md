@@ -12,7 +12,7 @@
 
 # 중요 2
 ```c
-int main
+int main()
 {
 	return 0;
 }
