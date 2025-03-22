@@ -131,6 +131,9 @@
     <ClCompile Include="02.iostream.cpp" />
     <ClCompile Include="03.namespace.cpp" />
     <ClCompile Include="04.Data.cpp" />
+    <ClCompile Include="05.String io.cpp" />
+    <ClCompile Include="06.Basik.cpp" />
+    <ClCompile Include="랜덤 사다리.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

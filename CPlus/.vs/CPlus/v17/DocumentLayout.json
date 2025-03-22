@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\CPlus\\",
+  "WorkspaceRootPath": "C:\\C Lang PJW\\CProject\\CPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\Users\\admin\\source\\repos\\CPlus\\04.Data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\\uB79C\uB364 \uC0AC\uB2E4\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:\uB79C\uB364 \uC0AC\uB2E4\uB9AC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\06.Basik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:06.Basik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\05.String io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:05.String io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\04.Data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:04.Data.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\Users\\admin\\source\\repos\\CPlus\\03.namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\03.namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:03.namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\Users\\admin\\source\\repos\\CPlus\\02.iostream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\02.iostream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:02.iostream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\Users\\admin\\source\\repos\\CPlus\\01.CPlus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\01.CPlus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:01.CPlus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -31,54 +43,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "04.Data.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CPlus\\04.Data.cpp",
-              "RelativeDocumentMoniker": "04.Data.cpp",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\CPlus\\04.Data.cpp",
-              "RelativeToolTip": "04.Data.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "\uB79C\uB364 \uC0AC\uB2E4\uB9AC.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\\uB79C\uB364 \uC0AC\uB2E4\uB9AC.cpp",
+              "RelativeDocumentMoniker": "\uB79C\uB364 \uC0AC\uB2E4\uB9AC.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\\uB79C\uB364 \uC0AC\uB2E4\uB9AC.cpp",
+              "RelativeToolTip": "\uB79C\uB364 \uC0AC\uB2E4\uB9AC.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T02:30:48.756Z",
+              "WhenOpened": "2025-03-22T02:18:56.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "03.namespace.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CPlus\\03.namespace.cpp",
-              "RelativeDocumentMoniker": "03.namespace.cpp",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\CPlus\\03.namespace.cpp",
-              "RelativeToolTip": "03.namespace.cpp",
-              "ViewState": "AQIAABoAAAAAAAAAAADwvzEAAAADAAAA",
+              "Title": "06.Basik.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\06.Basik.cpp",
+              "RelativeDocumentMoniker": "06.Basik.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\06.Basik.cpp",
+              "RelativeToolTip": "06.Basik.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAADwv0gAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T01:39:57.077Z",
+              "WhenOpened": "2025-03-22T01:14:07.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "02.iostream.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CPlus\\02.iostream.cpp",
-              "RelativeDocumentMoniker": "02.iostream.cpp",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\CPlus\\02.iostream.cpp",
-              "RelativeToolTip": "02.iostream.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADsAAAADAAAA",
+              "Title": "05.String io.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\05.String io.cpp",
+              "RelativeDocumentMoniker": "05.String io.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\05.String io.cpp",
+              "RelativeToolTip": "05.String io.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T00:34:57.099Z",
+              "WhenOpened": "2025-03-22T00:42:46.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "01.CPlus.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\CPlus\\01.CPlus.cpp",
-              "RelativeDocumentMoniker": "01.CPlus.cpp",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\CPlus\\01.CPlus.cpp",
-              "RelativeToolTip": "01.CPlus.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAADAAAA",
+              "Title": "04.Data.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\04.Data.cpp",
+              "RelativeDocumentMoniker": "04.Data.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\04.Data.cpp",
+              "RelativeToolTip": "04.Data.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T00:09:47.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T00:41:30.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03.namespace.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\03.namespace.cpp",
+              "RelativeDocumentMoniker": "03.namespace.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\03.namespace.cpp",
+              "RelativeToolTip": "03.namespace.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvzEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T00:41:26.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02.iostream.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\02.iostream.cpp",
+              "RelativeDocumentMoniker": "02.iostream.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\02.iostream.cpp",
+              "RelativeToolTip": "02.iostream.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T00:41:15.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "01.CPlus.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\01.CPlus.cpp",
+              "RelativeDocumentMoniker": "01.CPlus.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\01.CPlus.cpp",
+              "RelativeToolTip": "01.CPlus.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T00:41:03.615Z"
             }
           ]
         }

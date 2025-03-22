@@ -13,19 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="기초">
+      <UniqueIdentifier>{d747a337-48c2-47f0-bd68-29a6d3558d8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="이론">
+      <UniqueIdentifier>{46bb0730-7295-4bad-8194-431641e20dfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="연습 문제">
+      <UniqueIdentifier>{5a1a6c4d-0e6a-477c-a9ed-f24683a86ad8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="06.Basik.cpp">
+      <Filter>기초</Filter>
+    </ClCompile>
     <ClCompile Include="01.CPlus.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>이론</Filter>
     </ClCompile>
     <ClCompile Include="02.iostream.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>이론</Filter>
     </ClCompile>
     <ClCompile Include="03.namespace.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>이론</Filter>
     </ClCompile>
     <ClCompile Include="04.Data.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>이론</Filter>
+    </ClCompile>
+    <ClCompile Include="05.String io.cpp">
+      <Filter>이론</Filter>
+    </ClCompile>
+    <ClCompile Include="랜덤 사다리.cpp">
+      <Filter>연습 문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
