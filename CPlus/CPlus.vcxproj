@@ -132,8 +132,13 @@
     <ClCompile Include="03.namespace.cpp" />
     <ClCompile Include="04.Data.cpp" />
     <ClCompile Include="05.String io.cpp" />
-    <ClCompile Include="06.Basik.cpp" />
+    <ClCompile Include="06.Basic.cpp" />
+    <ClCompile Include="09.reference.cpp" />
+    <ClCompile Include="10.pointer and reference.cpp" />
+    <ClCompile Include="11. new delete.cpp" />
+    <ClCompile Include="12.Class.cpp" />
     <ClCompile Include="랜덤 사다리.cpp" />
+    <ClCompile Include="참조자 연습문제.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
