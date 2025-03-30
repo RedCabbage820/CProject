@@ -60,5 +60,22 @@
     <ClCompile Include="12.Class.cpp">
       <Filter>이론</Filter>
     </ClCompile>
+    <ClCompile Include="07.Basic2.cpp">
+      <Filter>기초</Filter>
+    </ClCompile>
+    <ClCompile Include="08.Basic3.cpp">
+      <Filter>기초</Filter>
+    </ClCompile>
+    <ClCompile Include="13.Basic4.cpp">
+      <Filter>기초</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 연습문제.cpp">
+      <Filter>연습 문제</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

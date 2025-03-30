@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\C Lang PJW\\CProject\\CPlus\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\\uD568\uC218 \uC5F0\uC2B5\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:\uD568\uC218 \uC5F0\uC2B5\uBB38\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|C:\\C Lang PJW\\CProject\\CPlus\\13.Basic4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42EA73A3-8924-43BA-AE9E-5EFAC9034AA7}|CPlus.vcxproj|solutionrelative:13.Basic4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uD568\uC218 \uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\\uD568\uC218 \uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "RelativeDocumentMoniker": "\uD568\uC218 \uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\\uD568\uC218 \uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "RelativeToolTip": "\uD568\uC218 \uC5F0\uC2B5\uBB38\uC81C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T01:35:40.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "13.Basic4.cpp",
+              "DocumentMoniker": "C:\\C Lang PJW\\CProject\\CPlus\\13.Basic4.cpp",
+              "RelativeDocumentMoniker": "13.Basic4.cpp",
+              "ToolTip": "C:\\C Lang PJW\\CProject\\CPlus\\13.Basic4.cpp",
+              "RelativeToolTip": "13.Basic4.cpp",
+              "ViewState": "AQIAAHEAAAAAAAAAAAA6wIUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T00:21:17.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
