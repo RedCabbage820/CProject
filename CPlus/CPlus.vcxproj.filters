@@ -78,6 +78,27 @@
     <ClCompile Include="15.Class3.cpp">
       <Filter>이론</Filter>
     </ClCompile>
+    <ClCompile Include="16.Class4.cpp">
+      <Filter>이론</Filter>
+    </ClCompile>
+    <ClCompile Include="관계연습문제.cpp">
+      <Filter>연습 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="관계연습문제2.cpp">
+      <Filter>연습 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="17.상속 마무리.cpp">
+      <Filter>이론</Filter>
+    </ClCompile>
+    <ClCompile Include="18.가상 함수.cpp">
+      <Filter>이론</Filter>
+    </ClCompile>
+    <ClCompile Include="19.연산자 오버로딩.cpp">
+      <Filter>이론</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자 오버로딩 트레이닝.cpp">
+      <Filter>연습 문제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
