@@ -99,6 +99,12 @@
     <ClCompile Include="연산자 오버로딩 트레이닝.cpp">
       <Filter>연습 문제</Filter>
     </ClCompile>
+    <ClCompile Include="연산자 오버로딩 트레이닝 2.cpp">
+      <Filter>연습 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="벡터.cpp">
+      <Filter>연습 문제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">

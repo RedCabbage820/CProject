@@ -149,6 +149,8 @@
     <ClCompile Include="관계연습문제.cpp" />
     <ClCompile Include="관계연습문제2.cpp" />
     <ClCompile Include="랜덤 사다리.cpp" />
+    <ClCompile Include="벡터.cpp" />
+    <ClCompile Include="연산자 오버로딩 트레이닝 2.cpp" />
     <ClCompile Include="연산자 오버로딩 트레이닝.cpp" />
     <ClCompile Include="참조자 연습문제.cpp" />
     <ClCompile Include="함수 연습문제.cpp" />
