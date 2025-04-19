@@ -1,2 +1,3 @@
-﻿  벡터.cpp
+﻿  예외 처리 예제.cpp
+C:\C Lang PJW\CProject\CPlus\예외 처리 예제.cpp(29,13): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
   CPlus.vcxproj -> C:\C Lang PJW\CProject\CPlus\x64\Debug\CPlus.exe
